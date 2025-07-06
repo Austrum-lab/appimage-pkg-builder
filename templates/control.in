@@ -1,0 +1,11 @@
+Package: {{PKG_NAME}}
+Version: {{VERSION}}
+Architecture: {{PKG_ARCH}}
+Maintainer: {{PKG_MAINTAINER}}
+Description: {{PKG_DESCRIPTION}}
+Homepage: {{PKG_HOMEPAGE}}
+{{DEPENDS}}
+{{CONFLICTS}}
+{{PROVIDES}}
+{{RECOMMENDS}}
+{{SUGGESTS}}

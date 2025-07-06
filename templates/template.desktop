@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name={{PKG_NAME}}
+Comment=AI-first code editor
+Exec={{PKG_NAME}} %F
+Icon={{PKG_NAME}}
+Terminal=false
+Categories=Development;TextEditor;IDE;
+MimeType=text/plain;inode/directory;application/x-code-workspace;
+StartupWMClass={{PKG_NAME}}
